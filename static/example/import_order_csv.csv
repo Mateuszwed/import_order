@@ -1,0 +1,25 @@
+Order number,Order date,Barcode,Quantity,Unit of measure,Price,Company Name,NIP,Company email,Company street,Company city,Company zip code,Customer name,Customer NIP,Customer email,Customer street,Customer City,Customer zip code,Phone,Customer Country,Currency,Company Country
+564985294,2023-07-20,5904181240,1,szt.,43.03,example company name,DE3095179,example@company.pl,Stralauer,Berlin,10115,Emma Muller,,emma@muller.de,Reeperbahn 21,Berlin,10115,+49123456789,Niemcy,EUR,Niemcy
+564985294,,0000000123,1,szt.,0,,,,,,,,,,,,,,,,
+564985294,,0000000134,1,szt.,0,,,,,,,,,,,,,,,,
+564985294,,0000000138,1,szt.,0,,,,,,,,,,,,,,,,
+564985294,,0987654321,1,szt.,14.65,,,,,,,,,,,,,,,,
+564985286,2023-07-20,5904181253,1,szt.,55.24,example company name 2,PL07474746,example2@company.pl,Koszalińska 25,Warszawa,00-001,Jan Kowalski,,jan@kowalski.pl,Wrocławska 15,Koszalin,75-100,+48123456789,Polska,EUR,Polska
+564985286,,0000000923,60,szt.,0,,,,,,,,,,,,,,,,
+564985286,,0000000924,70,szt.,0,,,,,,,,,,,,,,,,
+564985286,,0000000944,70,szt.,0,,,,,,,,,,,,,,,,
+564985286,,0000000125,1,szt.,0,,,,,,,,,,,,,,,,
+564985286,,0000000134,1,szt.,0,,,,,,,,,,,,,,,,
+564985286,,1085437372,1,szt.,0,,,,,,,,,,,,,,,,
+564985286,,0987654321,1,szt.,18.37,,,,,,,,,,,,,,,,
+564985280,2023-07-20,5904181274,1,szt.,48.69,example company name 2,PL07474746,example2@company.pl,Koszalińska 25,Warszawa,00-001,Monika Nowak,,monika@nowak.pl,Warszawska 30,Poznań,66-001,+48123456789,Polska,EUR,Polska
+564985280,,0000000921,60,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000922,60,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000923,60,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000948,60,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000952,60,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000123,1,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000134,1,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0000000135,1,szt.,0,,,,,,,,,,,,,,,,
+564985280,,1085437372,1,szt.,0,,,,,,,,,,,,,,,,
+564985280,,0987654321,1,szt.,18.37,,,,,,,,,,,,,,,,

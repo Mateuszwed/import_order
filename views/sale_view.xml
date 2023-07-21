@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem name="Importuj zamówienia" action="import_order_action" id="import_order_menu" parent="sale.sale_order_menu" groups="import_order.import_order_group" sequence="2" />
+</odoo>
