@@ -2,7 +2,6 @@
     "name" : "Import Order from CSV file",
     "author" : "Mateusz Szwed",
     "website": "mateusz-szwed.pl",
-    "support": "support@softhealer.com",
     "category": "Sales",
     "description": """Import zamówień z pliku CSV """,
     "version": "15.0.2",
